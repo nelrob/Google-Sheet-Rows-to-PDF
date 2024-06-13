@@ -5,7 +5,7 @@ Template files are available in the repo to play with.
 
 This script works by:
 - Getting a user's input on which row/s they want to generate a PDF from,
-- parsing the row's by matching the Sheets data with the {{placeholder}} set in the template document,
+- parsing the row's by matching the Sheets data with the `{{placeholder}}` set in the template document,
 - ponverting the row values into the template document,
 - generating a PDF from the template document.
 
@@ -34,7 +34,7 @@ This script works by:
 
 ### In Google Sheets sheet
 1. Create the following column headers:
-  - S No. (to show the ID in the file name)
+  - ID (to show the ID in the file name)
   - Name (to show the Name in the file name)
   - Status (to insert the generated PDF's link)
 2. You can insert as much other data as you want
