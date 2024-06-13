@@ -25,9 +25,9 @@ This script works by:
   - Name (to show the Name in the file name)
   - Status (to insert the generated PDF's link)
 2. Google Drive folder for where the PDFs will be contained - user must have edit permissions
-3. ID of above Google Drive folder (e.g. https://docs.google.com/document/d/**XXXXXXXX_XXX**/edit?usp=drive_link)
+3. ID of above Google Drive folder (e.g. https://docs&#46;google&#46;com/document/d/**XXXXXXXX_XXX**/edit?usp=drive_link)
 4. Google Doc template that the PDF will be based on
-5. ID of above Google Doc template (e.g. https://drive.google.com/drive/folders/**XXXXXXXX_XXX**?usp=drive_link)
+5. ID of above Google Doc template (e.g. https://drive&#46;google&#46;com/drive/folders/**XXXXXXXX_XXX**?usp=drive_link)
 6. All Google permission prompts accepted by the user
 
 ## Instructions
