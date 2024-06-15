@@ -1,4 +1,4 @@
-![339363299-a511c099-5a16-4610-9589-cdaad221baba](https://github.com/nelrob/Google-Sheet-Rows-to-PDF/assets/71628453/09229ce3-3621-4a3f-9870-63c79bdd8acf)# Google-Sheet-Rows-to-PDF
+# Google-Sheet-Rows-to-PDF
 Google Apps Script to generate PDF/s from a single or multiple Google Sheet row/s. 
 
 🔗 [Link to Drive folder of all relevant files](https://drive.google.com/drive/folders/1WgX4NAEuIvpV3iiiObg1UrrnkOUrnkGR?usp=sharing)
@@ -10,8 +10,8 @@ This script works by:
 - generating a PDF from the template document.
 
 ⤵️ [Features]((##Features)
-⤵️ [Running the Script]((##Running the Script)
-⤵️ [Further details]((##Further details)
+⤵️ [Running the Script]((##running-the-script)
+⤵️ [Further details]((##further-details)
 
 ## Features 
 - Skips a row if a PDF has already been generated 
@@ -54,6 +54,7 @@ It will prompt you to accept the permissions set by the script, I promise the co
 Choose if you want to generate single or multiple PDFs, and enter the rows you'd like to be generated.
 
 The script takes a few seconds to run, you'll know it works when the `Generated` column is populated with the hyperlinks to the newly generated PDFs!
+![image](https://github.com/nelrob/Google-Sheet-Rows-to-PDF/assets/71628453/bb26ec95-85bd-40ac-8a14-60a9ecd71049)
 
 ## Further details
 
