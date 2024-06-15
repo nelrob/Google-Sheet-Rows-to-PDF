@@ -49,11 +49,13 @@ Whoo! That was a lot of setup. Now to see if it works.
 
 In the header of the spreadsheet, click `Generate PDFs`. 
 It will prompt you to accept the permissions set by the script, I promise the code is safe. You can accept this prompt.
+
 ![339363299-a511c099-5a16-4610-9589-cdaad221baba](https://github.com/nelrob/Google-Sheet-Rows-to-PDF/assets/71628453/6a80cf1e-c258-45fd-ab12-584096a3feb1)
 
 Choose if you want to generate single or multiple PDFs, and enter the rows you'd like to be generated.
 
 The script takes a few seconds to run, you'll know it works when the `Generated` column is populated with the hyperlinks to the newly generated PDFs!
+
 ![image](https://github.com/nelrob/Google-Sheet-Rows-to-PDF/assets/71628453/bb26ec95-85bd-40ac-8a14-60a9ecd71049)
 
 ## Further details
