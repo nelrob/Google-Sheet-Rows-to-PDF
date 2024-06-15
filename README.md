@@ -9,9 +9,9 @@ This script works by:
 - converting the row values into the template document,
 - generating a PDF from the template document.
 
-⤵️ [Features]((##Features)
-⤵️ [Running the Script]((##running-the-script)
-⤵️ [Further details]((##further-details)
+⤵️ [Features](##Features)
+⤵️ [Running the Script](##running-the-script)
+⤵️ [Further details](##further-details)
 
 ## Features 
 - Skips a row if a PDF has already been generated 
